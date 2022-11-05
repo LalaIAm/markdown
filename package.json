@@ -2,6 +2,17 @@
   "name": "markdown",
   "version": "0.1.0",
   "private": true,
+  "description": "A react markdown editor",
+  "author": "LalaIAm",
+  "license": "MIT",
+  "homepage": "https://github.com/lalaiam/markdown#readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalaiam/markdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lalaiam/markdown/issues"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
