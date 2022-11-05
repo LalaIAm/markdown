@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lalaiam/markdown/static/css/main.4d71ee07.css",
+    "main.js": "/lalaiam/markdown/static/js/main.d56feded.js",
+    "static/js/787.a3c8b4eb.chunk.js": "/lalaiam/markdown/static/js/787.a3c8b4eb.chunk.js",
+    "index.html": "/lalaiam/markdown/index.html",
+    "main.4d71ee07.css.map": "/lalaiam/markdown/static/css/main.4d71ee07.css.map",
+    "main.d56feded.js.map": "/lalaiam/markdown/static/js/main.d56feded.js.map",
+    "787.a3c8b4eb.chunk.js.map": "/lalaiam/markdown/static/js/787.a3c8b4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d71ee07.css",
+    "static/js/main.d56feded.js"
+  ]
+}
