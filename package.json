@@ -5,7 +5,6 @@
   "description": "A react markdown editor",
   "author": "LalaIAm",
   "license": "MIT",
-  "homepage": "https://github.com/lalaiam/markdown#readme.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lalaiam/markdown.git"
